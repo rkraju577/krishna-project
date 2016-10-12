@@ -6,6 +6,8 @@ this lines are added from chef raju
 <head>
 <html>ending code</html>
 <port>9090</port>
+<port>23</port>
+<ssl>no</ssl>
 hellow word</head>
 </html>
 
